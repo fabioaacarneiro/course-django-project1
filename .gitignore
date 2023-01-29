@@ -137,5 +137,9 @@ local_settings.py
 _local_settings.py
 static/
 
+# vim / neovim
+
+.vim
+
 # Add again for course or learn purpose
 !db.sqlite3
