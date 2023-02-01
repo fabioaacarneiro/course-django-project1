@@ -135,7 +135,7 @@ env
 .DS_Store
 local_settings.py
 _local_settings.py
-static/
+#static/
 
 # vim / neovim
 
