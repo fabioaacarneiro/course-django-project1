@@ -131,6 +131,7 @@ __pychache__/
 *.pyc
 __localcode
 venv
+.venv
 env
 .DS_Store
 local_settings.py
